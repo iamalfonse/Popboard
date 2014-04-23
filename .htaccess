@@ -1,0 +1,62 @@
+# secure htaccess file
+<Files .htaccess>
+ order allow,deny
+ deny from all
+</Files>
+
+# disable directory browsing
+#Options All -Indexes
+
+# preserve bandwidth for PHP enabled servers
+<ifmodule mod_php4.c>
+ php_value zlib.output_compression 16386
+</ifmodule>
+
+# disable the server signature
+#ServerSignature Off
+
+# set the default character set
+AddDefaultCharset UTF-8
+
+
+#=================== Rewrite Rules =========================
+# Turn on the rewriting engine
+RewriteEngine On 
+
+#Handle requests for the main page
+RewriteRule ^$ index.php [NC,L]
+
+# Handle requests for "register"
+RewriteRule ^register(\/)?$ signup.php [NC,L]
+
+# Handle requests for "checkusername"
+RewriteRule ^checkusername(\/)?$ checkusername.php [NC,L]
+
+# Handle requests for "success"
+RewriteRule ^success(\/)?$ reg_success.php [NC,L]
+
+# Handle requests for "posts" (This is the main Blog Wall area)
+RewriteRule ^posts(\/)?$ postblog.php [NC,L]
+
+# Handle requests for "post/id" (This is the actual post with title)
+RewriteRule ^post\/([0-9]+)\/([A-Za-z0-9\-]+)$ commentblog.php?post_id=$1&title=$2 [NC,L]
+
+# Handle requests for "profile"
+RewriteRule ^profile(\/)?([a-z0-9-]+)?$ profile.php?username=$2 [NC,L]
+
+# Handle requests for "createpost"
+RewriteRule ^createpost(\/)?$ dashboard.php [NC,L]
+
+# Handle requests for "myposts", "myposts/newest" or "mypost/oldest"
+RewriteRule ^myposts(\/)?(newest|oldest)?$ mywall.php?sortby=$2 [NC,L]
+
+# Handle requests for "editpost"
+RewriteRule ^editpost\/([0-9]+)\/?([A-Za-z0-9-]+)?\/?$ editpost.php?post_id=$1&blog_title=$2 [NC,L]
+
+# Handle requests for "deletepost"
+RewriteRule ^deletepost\/([0-9]+)\/?([A-Za-z0-9-]+)?\/?$ deletepost.php?post_id=$1&blog_title=$2 [NC,L]
+
+# Handle requests for "logout"
+RewriteRule ^logout(\/)?$ logout.php [NC,L]
+
+

@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="stylesheets/style1.css" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Brawler' rel='stylesheet' type='text/css'>
+<script src="js/jquery-1.6.1.min.js" type="text/javascript"></script>
+<script src="js/cleartext.js" type="text/javascript"></script>
+
+<title>Popboard</title>
+
+</head>
+<body>
+<div id="container">
+	<div id="top">
+    	<div id="logomenu">
+        	<h1><a href="index.php">Logo</a></h1>
+			<div class="tab">
+				<p><a href="index.php">Back</a></p>
+			</div><!--.tab-->
+        </div><!--#logomenu-->
+    </div><!--#top-->
+	<div id="bottom">
+		
+		<div id="signup">
+			<div class="signup-banner"><h2>Popboard Sign Up</h2></div>
+			<form action="signup.php" method="post">
+
+				<p>Username<br /><input class="signuptext userinput" type="text" name="new_username" size="20" onkeyup="javascript:startRequest();"/><div id="nametaken"></div>
+				</p>
+				<p>Password<br /><input class="signuptext userinput" type="password" name="new_pass" size="20" /></p>
+				<p>Password Confirmation<br /><input class="signuptext userinput" type="password" name="new_pass_conf" size="20" /></p>
+				<p>Email<br /><input class="signuptext userinput" type="text" name="new_email" size="30" /></p>
+				<input class="submitbtn" type="submit" name="submit" value="Register" />
+		    </form>
+		
+		</div><!--#signup-->
+		
+		
+	</div><!--#bottom-->
+</div><!--#container-->	
+
+
+
+
+
+
+<script type="text/javascript">
+	
+	var ajaxobj;
+	
+
+	function startRequest() {
+		//createXMLHttpRequest();
+		//alert("createdXMLHttpRequest");
+		
+		var form_username = document.forms[0].new_username.value;
+		//alert("Form Username: " + form_username);
+		
+		var req_string = "checkusername.php?check_username=" + form_username;
+		//alert(req_string);
+		
+		createXMLHttpRequest(); 
+		
+		//alert("createdXMLHttpRequest");
+		
+		ajaxobj.open("POST", req_string, true); 
+		ajaxobj.onreadystatechange = handleResponse;
+		ajaxobj.send(null);
+
+	}
+
+	function createXMLHttpRequest() { 
+		if (window.ActiveXObject) { //for IE
+			ajaxobj = new ActiveXObject("Microsoft.XMLHTTP"); 
+			
+			//alert("created ajaxobject");
+			
+		} else if (window.XMLHttpRequest) { //for Other Browsers
+			ajaxobj = new XMLHttpRequest();
+			
+			//alert("created XMLHttpRequest");
+			
+		}
+	}
+	
+	
+	
+	function handleResponse() {
+		if (ajaxobj.readyState == 4) { 
+			if (ajaxobj.status == 200) {
+				/* Do something appropriate here... */ 
+				//alert("Got the response: " + ajaxobj.responseText);
+				//document.write(ajaxobj.responseText);
+				document.getElementById('nametaken').innerHTML=ajaxobj.responseText;
+			}
+		}
+	}
+</script>
+
+</body>
+</html>

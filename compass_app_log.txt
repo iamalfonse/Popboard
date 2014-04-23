@@ -1,0 +1,64 @@
+2013-06-13 09:41:34 overwrite stylesheets/style1.css 
+2013-06-13 09:41:51     error sass/style1.scss (Line 174: Undefined mixin 'box-shadow-2'.)
+2013-06-13 09:41:51 overwrite stylesheets/style1.css 
+2013-06-13 09:42:26     error sass/style1.scss (Line 201: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:42:26 overwrite stylesheets/style1.css 
+2013-06-13 09:45:18     error sass/style1.scss (Line 207: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:45:18 overwrite stylesheets/style1.css 
+2013-06-13 09:45:35     error sass/style1.scss (Line 279: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:45:35 overwrite stylesheets/style1.css 
+2013-06-13 09:45:45     error sass/style1.scss (Line 548: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:45:45 overwrite stylesheets/style1.css 
+2013-06-13 09:45:51     error sass/style1.scss (Line 548: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:45:51 identical stylesheets/style1.css 
+2013-06-13 09:46:09     error sass/style1.scss (Line 604: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:46:09 overwrite stylesheets/style1.css 
+2013-06-13 09:46:26     error sass/style1.scss (Line 632: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:46:26 overwrite stylesheets/style1.css 
+2013-06-13 09:46:32     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:46:32 overwrite stylesheets/style1.css 
+2013-06-13 09:46:50     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:46:50 identical stylesheets/style1.css 
+2013-06-13 09:47:00     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:47:00 identical stylesheets/style1.css 
+2013-06-13 09:47:20     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:47:20 identical stylesheets/style1.css 
+2013-06-13 09:47:24     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:47:24 identical stylesheets/style1.css 
+2013-06-13 09:47:29     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:47:29 identical stylesheets/style1.css 
+2013-06-13 09:47:39     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:47:39 identical stylesheets/style1.css 
+2013-06-13 09:47:44     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:47:44 identical stylesheets/style1.css 
+2013-06-13 09:47:47     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:47:47 identical stylesheets/style1.css 
+2013-06-13 09:47:52     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:47:52 identical stylesheets/style1.css 
+2013-06-13 09:47:58     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:47:58 identical stylesheets/style1.css 
+2013-06-13 09:48:02     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:48:02 identical stylesheets/style1.css 
+2013-06-13 09:48:06     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:48:06 identical stylesheets/style1.css 
+2013-06-13 09:48:14     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:48:14 identical stylesheets/style1.css 
+2013-06-13 09:48:17     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:48:17 identical stylesheets/style1.css 
+2013-06-13 09:48:21     error sass/style1.scss (Line 749: Undefined mixin 'gradient-vertical'.)
+2013-06-13 09:48:21 identical stylesheets/style1.css 
+2013-06-13 09:48:58 overwrite stylesheets/style1.css 
+2013-06-13 09:52:59 identical stylesheets/style1.css 
+2013-06-13 10:04:10 identical stylesheets/style1.css 
+2013-06-13 10:04:28 identical stylesheets/style1.css 
+2013-06-13 10:07:05 identical stylesheets/style1.css 
+2013-06-13 10:11:37 identical stylesheets/style1.css 
+2013-06-13 10:20:50 identical stylesheets/style1.css 
+2013-06-13 10:21:25 identical stylesheets/style1.css 
+2013-06-13 10:35:51 identical stylesheets/style1.css 
+2013-06-13 10:38:04 identical stylesheets/style1.css 
+2013-06-13 10:42:49 identical stylesheets/style1.css 
+2013-06-13 10:48:51 identical stylesheets/style1.css 
+2013-06-13 10:48:57 identical stylesheets/style1.css 
+2013-06-13 10:50:24 identical stylesheets/style1.css 
+2013-06-13 10:50:50 identical stylesheets/style1.css 

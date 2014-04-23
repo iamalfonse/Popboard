@@ -1,0 +1,1432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"name",
+				"nametaken"
+			],
+			[
+				"check",
+				"checkusername"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"form",
+				"form_username"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"user",
+				"userprofile"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"error",
+				"error-overlay"
+			],
+			[
+				"show",
+				"show_delete_dialogue"
+			],
+			[
+				"sort",
+				"sortby"
+			],
+			[
+				"rand",
+				"randomHash"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"datetime",
+				"date_timestamp_get"
+			],
+			[
+				"new",
+				"new_username"
+			],
+			[
+				"pregma",
+				"preg_match"
+			],
+			[
+				"signup",
+				"signupform"
+			],
+			[
+				"border-bott",
+				"border-bottom-radius"
+			],
+			[
+				"gra",
+				"gradient-vertical"
+			],
+			[
+				"search",
+				"searchOverlay"
+			],
+			[
+				"overl",
+				"overlayContainerHeight"
+			],
+			[
+				"over",
+				"overlayContainer"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"head",
+				"headerH"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"compare",
+				"compareVehiclesHeight"
+			],
+			[
+				"selected",
+				"selectedVehicle"
+			],
+			[
+				"ve",
+				"vehicleImg"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"co",
+				"compareVehiclesTop"
+			],
+			[
+				"spec",
+				"spec-icons"
+			],
+			[
+				"is",
+				"isMobile"
+			],
+			[
+				"start",
+				"startWidth"
+			],
+			[
+				"compa",
+				"compareVehiclesWidth"
+			],
+			[
+				"compareVehic",
+				"compareVehiclesWidth"
+			],
+			[
+				"com",
+				"compareVehiclesWidth"
+			],
+			[
+				"wra",
+				"wrapWidth"
+			],
+			[
+				"vehicle",
+				"vehicleChange"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"selec",
+				"selectedVehicle"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"vehicl",
+				"vehicleChange"
+			],
+			[
+				"add",
+				"addVehicleBox"
+			],
+			[
+				"wind",
+				"windowTop"
+			],
+			[
+				"v3",
+				"v3"
+			],
+			[
+				"v1",
+				"v1"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"sele",
+				"selectedVehicleName"
+			],
+			[
+				"se",
+				"selectedVehicleName"
+			],
+			[
+				"sel",
+				"selectedVehicleName"
+			],
+			[
+				"dealer",
+				"dealerSelect"
+			],
+			[
+				"get",
+				"getState"
+			],
+			[
+				"overla",
+				"overlayContainer"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"win",
+				"windowTop"
+			],
+			[
+				"car",
+				"carName"
+			],
+			[
+				"res",
+				"resultsContainerHeight"
+			],
+			[
+				"sea",
+				"searchContainerHeight"
+			],
+			[
+				"veh",
+				"vehicle1"
+			],
+			[
+				"last",
+				"lastClass"
+			],
+			[
+				"comp",
+				"compareVehicles"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ph",
+				"phone3"
+			],
+			[
+				"phon",
+				"phone2"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"black",
+				"blackShadow"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ca",
+				"carSearch"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"blac",
+				"blackShadow"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"vehi",
+				"vehicle"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"box-s",
+				"box-shadow-2"
+			],
+			[
+				"opac",
+				"opacity"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"model",
+				"model"
+			],
+			[
+				"addVehicle",
+				"addVehicleBox"
+			],
+			[
+				"this",
+				"thisParent"
+			],
+			[
+				"addVehi",
+				"addVehicleLink"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"vehic",
+				"vehicleSpecs"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".htaccess",
+			"settings":
+			{
+				"buffer_size": 1760,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 10951,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 5824,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "postblog.php",
+			"settings":
+			{
+				"buffer_size": 8846,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "get_posts.php",
+			"settings":
+			{
+				"buffer_size": 1022,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "left.php",
+			"settings":
+			{
+				"buffer_size": 863,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/cleartext.js",
+			"settings":
+			{
+				"buffer_size": 2856,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "commentblog.php",
+			"settings":
+			{
+				"buffer_size": 9160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dashboard.php",
+			"settings":
+			{
+				"buffer_size": 2440,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "profile.php",
+			"settings":
+			{
+				"buffer_size": 6535,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "editpost.php",
+			"settings":
+			{
+				"buffer_size": 2883,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mywall.php",
+			"settings":
+			{
+				"buffer_size": 4278,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "reg_success.php",
+			"settings":
+			{
+				"buffer_size": 6155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "signup.php",
+			"settings":
+			{
+				"buffer_size": 11742,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "checkusername.php",
+			"settings":
+			{
+				"buffer_size": 1340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "like_post.php",
+			"settings":
+			{
+				"buffer_size": 2424,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "deletepost.php",
+			"settings":
+			{
+				"buffer_size": 1461,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "logout.php",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 25242,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/style1.scss",
+			"settings":
+			{
+				"buffer_size": 18320,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style1.css",
+			"settings":
+			{
+				"buffer_size": 26355,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alfonse/Dropbox/Popboard/resources/hallofh3_popboard.sql",
+		"/Users/alfonse/Dropbox/Popboard_old/config.php",
+		"/Users/alfonse/Dropbox/Popboard/mywall_oldest.php",
+		"/Users/alfonse/Dropbox/Popboard/gravatar.php",
+		"/Users/alfonse/Dropbox/Popboard/cleartext.js",
+		"/Users/alfonse/Dropbox/Popboard/login.php",
+		"/Users/alfonse/Dropbox/Popboard/myprofile.php",
+		"/Users/alfonse/Dropbox/Popboard/signup.html",
+		"/Users/alfonse/Dropbox/Popboard/postblog_oldest.php",
+		"/Users/alfonse/Dropbox/Popboard/postblog.php",
+		"/Users/alfonse/Dropbox/Popboard/default.html",
+		"/Users/alfonse/Desktop/Alfonse/AutoSp-P1-Feb26-Delivered/sass/testR3-trucks1.scss",
+		"/Users/alfonse/Downloads/AutoSp-P1-Feb26-Delivered/sass/testR2-1.scss",
+		"/Users/alfonse/Downloads/AutoSp-P1-Feb26-Delivered/AutoSp-1.htm",
+		"/Users/alfonse/Dropbox/Daily/checkusername.php",
+		"/Users/alfonse/Dropbox/Daily/commentblog.php",
+		"/Users/alfonse/Dropbox/Daily/dashboard.php",
+		"/Users/alfonse/Dropbox/Daily/deletepost.php",
+		"/Users/alfonse/Dropbox/Daily/editpost.php",
+		"/Users/alfonse/Dropbox/Daily/fileupload.php",
+		"/Users/alfonse/Dropbox/Daily/index.html",
+		"/Users/alfonse/Dropbox/Daily/index.php",
+		"/Users/alfonse/Dropbox/Daily/login.php",
+		"/Users/alfonse/Dropbox/Daily/logout.php",
+		"/Users/alfonse/Dropbox/Daily/myprofile.php",
+		"/Users/alfonse/Dropbox/Daily/mywall_oldest.php",
+		"/Users/alfonse/Dropbox/Daily/mywall.php",
+		"/Users/alfonse/Dropbox/Daily/postblog_oldest.php",
+		"/Users/alfonse/Dropbox/Daily/postblog.php",
+		"/Users/alfonse/Dropbox/Daily/reg_success.php",
+		"/Users/alfonse/Dropbox/Daily/signup.html",
+		"/Users/alfonse/Dropbox/Daily/signup.php",
+		"/Users/alfonse/Dropbox/Daily/style1.css",
+		"/Users/alfonse/Dropbox/Daily/uploadphotos.php",
+		"/Users/alfonse/Desktop/Alfonse/iMotors/test_01/sass/_var.scss",
+		"/Users/alfonse/Desktop/Alfonse/iMotors/test_01/sass/_mixins.scss",
+		"/Applications/XAMPP alias",
+		"/Users/alfonse/Dropbox/My_Telltale_Stuff/Prime/less/mixins.less",
+		"/Users/alfonse/Dropbox/My_Telltale_Stuff/Prime/less/normalize.less",
+		"/Users/alfonse/Desktop/Alfonse/iMotors/test_01/stylesheets/test.css",
+		"/Users/alfonse/Desktop/Alfonse/iMotors/test_01/stylesheets/master.css",
+		"/Users/alfonse/Desktop/CF-2-19-13/index.html",
+		"/Users/alfonse/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/alfonse/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/alfonse/Downloads/CF-2-19-13/sass/master.scss",
+		"/Users/alfonse/Downloads/CF-2-19-13/sass/_var.scss",
+		"/Users/alfonse/Downloads/CF-2-19-13/sass/_mixins.scss",
+		"/Users/alfonse/Downloads/CF-2-19-13/sass/_base.scss",
+		"/Users/alfonse/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/alfonse/Dropbox/Popboard",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cleartext",
+			"&& $('body.posts').length)",
+			"if ($(window).scrollTop()",
+			"if  ($(window).scrollTop() == $(document).height() - $(window).height() && $('body.posts').length){\n			load_more_posts();\n		}",
+			"if  ($(window).scrollTop() == $(document).height() - $(window).height() && $('body.posts').length){\n		load_more_posts();\n	}",
+			"$dbpass = \"\";",
+			"border-top-r",
+			"border-t",
+			"letter",
+			"$Rows",
+			"Rows",
+			"CREATE TABLE",
+			"ellip",
+			"addprefixes",
+			"get_db_params",
+			"get_db_params()",
+			"\");\n",
+			"get_db_params();",
+			"num_rows",
+			"				$",
+			"gravatar.php",
+			"displayname",
+			"mysql_real_escape",
+			"dbpass = \"emnalphil02\"",
+			"mysql_real_escape",
+			"dbpass = \"\"",
+			"update users",
+			"myprofile.php",
+			"myprofile",
+			"blogtitle",
+			"get_cleaner_url",
+			"$blogtitle",
+			"submitblog",
+			"blogtitle",
+			"reg_success.php",
+			"comment",
+			"comments",
+			"comment",
+			"post",
+			"login.php",
+			"retval",
+			"blogbo",
+			"dbpass = \"\"",
+			"62",
+			"myPoints",
+			"lvlEnd",
+			"calcLevel",
+			"calcInc",
+			"calcEnd",
+			"calcStart",
+			"emnalphil02",
+			"dbpass = \"\"",
+			"= \"\"",
+			"jquery",
+			"1.6.1",
+			"jquery-1.6.1",
+			"emnalphil02",
+			"hallofh3_pop",
+			"num_rows",
+			"root",
+			"postusername",
+			"userid",
+			"root",
+			"$Row0",
+			"images",
+			"style1",
+			"style1.css",
+			"hallofh3_pop",
+			"carc",
+			"SubmitedLead",
+			"');\n",
+			"histor",
+			"gridn",
+			"gw",
+			"overlayName",
+			"searcho",
+			"ism",
+			"		\n",
+			"50px",
+			"-50px",
+			"header",
+			"refine",
+			"selected",
+			"selectedve",
+			"inline",
+			"icon",
+			"compare",
+			"noGradent",
+			"bg",
+			"blue",
+			"compareve",
+			"view spec",
+			"arrow",
+			",\n",
+			"&.gdS3,",
+			"hide de",
+			"view dealers",
+			"seedea",
+			"selectedv",
+			"compare",
+			"phone",
+			"compa",
+			"gds6",
+			"addvehicleb",
+			"selectedve",
+			"addvehicles",
+			"@alpha",
+			"@color",
+			"virtual host",
+			"#virtual",
+			"#virtual host",
+			"virtualho",
+			"addvehicles",
+			");\n",
+			"carname",
+			"vehicleImg",
+			"'.",
+			"image",
+			"@alpha",
+			"@color",
+			"@colorstop",
+			"@transition",
+			"@z",
+			"@y",
+			"@x",
+			"@ratio",
+			"@deg",
+			"@midcolor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".htaccess",
+					"settings":
+					{
+						"buffer_size": 1760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1215,
+								1215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 549.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config.php",
+					"settings":
+					{
+						"buffer_size": 10951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5027,
+								5027
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1795.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 5824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 148.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "postblog.php",
+					"settings":
+					{
+						"buffer_size": 8846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3622,
+								3622
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3188.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "get_posts.php",
+					"settings":
+					{
+						"buffer_size": 1022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "left.php",
+					"settings":
+					{
+						"buffer_size": 863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								486,
+								486
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/cleartext.js",
+					"settings":
+					{
+						"buffer_size": 2856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2533,
+								2533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "commentblog.php",
+					"settings":
+					{
+						"buffer_size": 9160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								848,
+								848
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "dashboard.php",
+					"settings":
+					{
+						"buffer_size": 2440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2099,
+								2099
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 376.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "profile.php",
+					"settings":
+					{
+						"buffer_size": 6535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								881,
+								881
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 4.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "editpost.php",
+					"settings":
+					{
+						"buffer_size": 2883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2824,
+								2855
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1058.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "mywall.php",
+					"settings":
+					{
+						"buffer_size": 4278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3039,
+								3039
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 173.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "reg_success.php",
+					"settings":
+					{
+						"buffer_size": 6155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5195,
+								5207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1849.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "signup.php",
+					"settings":
+					{
+						"buffer_size": 11742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "checkusername.php",
+					"settings":
+					{
+						"buffer_size": 1340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								849,
+								849
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "like_post.php",
+					"settings":
+					{
+						"buffer_size": 2424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 141.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "deletepost.php",
+					"settings":
+					{
+						"buffer_size": 1461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "logout.php",
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 18,
+					"file": "sass/_mixins.scss",
+					"settings":
+					{
+						"buffer_size": 25242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12182,
+								12182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5576.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "sass/style1.scss",
+					"settings":
+					{
+						"buffer_size": 18320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2620,
+								2620
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2804.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "style1.css",
+					"settings":
+					{
+						"buffer_size": 26355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								631,
+								631
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 534.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.492513385927,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
